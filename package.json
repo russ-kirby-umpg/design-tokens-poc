@@ -1,6 +1,6 @@
 {
   "name": "@russ-kirby-umpg/design-tokens-poc",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "POC for design tokens",
   "main": "tokens.json",
   "scripts": {
